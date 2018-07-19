@@ -1,0 +1,25 @@
+运行环境
+	操作系统：WIN10
+	编译软件：Dev C++
+	
+文档说明
+	1.LinkStack文件夹
+		LinkStack.h	        链栈的结构体以及所有的函数声明
+		LinkStack.c	        声明函数的主体实现
+		Test_LinkStack.c	测试主函数
+		LinkStack.dev       运行文件
+		
+	2.SeqStack文件夹
+		SeqStack.h	        顺序栈的结构体以及所有的函数声明
+		SeqStack.c	        声明函数的主体实现
+		Test_SeqStack.c	测试主函数
+		SeqStack.dev 		运行文件
+		
+运行方法
+    1.LinkStack文件夹
+       由于在DevC++软件中新建工程LinkStack.dev，然后在工程LinkStack.dev中分别添加LinkStack.h、LinkStack.c和Test_LinkStack.c文件，
+     因此运行时，需要打开LinkStack.dev文件编译运行。
+     
+     2.SeqStack文件夹
+        由于在DevC++软件中新建工程SeqStack.dev，然后在工程SeqStack.dev中分别添加SeqStack.h、SeqStack.c和Test_SeqStack.c文件，
+     因此运行时，需要打开SeqStack.dev文件编译运行。
